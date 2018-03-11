@@ -1,0 +1,3 @@
+year,attacker_king,defender_king,attacker_1,defender_1,battle_type,major_death,major_capture,attacker_size,defender_size,attacker_commander,defender_commander,summer,location,region
+301,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,pitched battle,1,0,15000,4000,Jaime Lannister,"Clement Piper, Vance",1,Golden Tooth,The Westerlands
+302,Robb Stark,Joffrey/Tommen Baratheon,Lannister,Baratheon,ambush,1,0,120,120,Gregor Clegane,Beric Dondarrion,1,Mummer's Ford,The Riverlands
