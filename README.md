@@ -1,4 +1,4 @@
-# Machine-Learning  # Python  # R-programming
+# Machine-Learning   Python   R-programming
 Machine Learning Algorithms in Python and R. 
 It is structured the following way:
 
